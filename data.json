@@ -1,0 +1,26 @@
+[{
+    "UID": "azr123",
+    "nom": "Morane",
+    "prenom": "Bob",
+    "ville": "Arceuil",
+    "pays": "France",
+    "mail": "test@test",
+    "linkedin": "linkedin.com",
+    "badge":[
+      {"nom": "27001", "timestamp":"1254545986", "description": "cours de 27001", "image": "url/27001.jpg"}, 
+      {"nom": "forensic", "timestamp":"1216524563", "description": "cours de forensic", "image": "url/ailleurs.jpg"}
+    ]
+},
+{
+    "UID": "123azr",
+    "nom": "Croft",
+    "prenom": "Lara",
+    "ville": "Toulouse",
+    "pays": "France",
+    "mail": "test@test",
+    "linkedin": "linkedin.com",
+    "badge":[
+      {"nom": "python", "timestamp":"1254545986", "description": "cours de python", "image": "url/loin.jpg"}, 
+      {"nom": "forensic", "timestamp":"1216524563", "description": "cours de forensic", "image": "url/ailleurs.jpg"}
+    ]
+}]
